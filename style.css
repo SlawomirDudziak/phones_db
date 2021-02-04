@@ -1,0 +1,13 @@
+body{
+    padding: 50px;
+    /* background-color: rgb(59, 59, 59); */
+    font-family: 'Inconsolata', monospace;
+}
+
+.thumb-image {
+    width: 50px !important;
+}
+
+.update-image {
+    width: 120px !important;
+}
